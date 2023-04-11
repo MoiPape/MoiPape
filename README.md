@@ -8,7 +8,7 @@
 
 Welcome, I'm Moises, a 30 years old from Cádiz (Spain), who wants to learn more about this world of programming.
 
-I just finished my studies as a **sysadmin** from *San Ignacio Salesiano* and Im starting a **full-stack Javascript Developer bootcam**.
+I just finished my studies as a **sysadmin** from *San Ignacio Salesiano* and Im starting a **full-stack Javascript Developer bootcamp**.
 
 ### - Experience
 
