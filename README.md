@@ -6,7 +6,7 @@
 
 ## Junior sysadmin at your service.
 
-Welcome, I'm Moises, a 30 years old from Cádiz (Spain), who wants to learn more about this world of programming.
+Welcome, I'm Moises, a 31 years old from Cádiz (Spain), who wants to learn more about this world of programming.
 
 I just finished my studies as a **sysadmin** from *San Ignacio Salesiano* and Im starting a **full-stack Javascript Developer bootcamp**.
 
